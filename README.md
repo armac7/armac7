@@ -1,4 +1,5 @@
-Hi 👋 My name is William Ryan McDonald
+Hello, There! 👋
+I'm William **Ryan** McDonald
 ======================================
 
 Aspiring Software Engineer / Web Developer
