@@ -18,9 +18,9 @@ Aspiring Software Engineer / Web Developer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=ps,pr,ae,)](https://skillicons.dev)
+[![Coding Skills](https://skillicons.dev/icons?i=cpp,java,py,mysql)](https://skillicons.dev)
+[![Web Dev Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)](https://skillicons.dev)
+[![Production Skills](https://skillicons.dev/icons?i=ps,pr,ae,)](https://skillicons.dev)
 
 
 
