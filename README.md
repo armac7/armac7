@@ -5,19 +5,16 @@ I'm William **Ryan** McDonald.
 🧑🏼‍💻 Aspiring Software Engineer / Web Developer
 ------------------------------------------
 ### Introduction
+✝️ God before anything. Ave Christus Rex; Deus Vult. Amen. 🙏
 🖥️ Check out my [Portfolio Site](https://wrmcd.net).  
 🎒 Junior-year IT Student with a specification in Software Developmemt and a minor in Cyber-Security.  
 🔥 Self-driven to: do better and be better; achieve my goals; and obtain my dreams.  
 ⌨️ Programmer, Graphic Designer, IT Specialist, and Content Creator.
 
-* 🧠  Currently learning C++, HTML, CSS, JS, Networking, and SQL/Databases.
-* 📚  Currently studying for CompTIA A+, freeCodeAcademy Web Development, and W3 Schools C++ certifications.
-* ✨  Current Most Interested Topics: C++, Web Design, Networking.
-
 ### Skills
 
 [![Web Dev Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery)](https://skillicons.dev)  
-[![Coding Skills](https://skillicons.dev/icons?i=cpp,java,py,mysql)](https://skillicons.dev)  
+[![Coding Skills](https://skillicons.dev/icons?i=cpp,java,py,cs,mysql)](https://skillicons.dev)  
 [![Production Skills](https://skillicons.dev/icons?i=ps,pr,ae,)](https://skillicons.dev)
 
 
