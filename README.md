@@ -7,7 +7,7 @@ I'm William **Ryan** McDonald.
 ### Introduction
 ✝️ God before anything. Ave Christus Rex; Deus Vult. Amen. 🙏
 🖥️ Check out my [Portfolio Site](https://wrmcd.net).  
-🎒 Junior-year IT Student with a specification in Software Developmemt and a minor in Cyber-Security.  
+🎒 Senior-year IT Student with a specification in Software Developmemt and a minor in Computer Science.  
 🔥 Self-driven to: do better and be better; achieve my goals; and obtain my dreams.  
 ⌨️ Programmer, Graphic Designer, IT Specialist, and Content Creator.
 
